@@ -1,3 +1,5 @@
 Hello World
 Dot Batch Fmily
 bubblesort
+kya hall sbka
+quicksort
