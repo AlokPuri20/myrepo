@@ -4,3 +4,4 @@ bubblesort
 kya hall sbka
 quicksort
 mergesort
+insertionsort
